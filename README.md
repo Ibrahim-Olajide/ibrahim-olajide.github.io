@@ -1,5 +1,8 @@
 # ibrahim-olajide.github.io
-Variation in Genes caused by Mutation and Alternative Splicing :
+# Advice
+This is merely a repository of a project under study preparation for publication.
+
+# Variation in Genes caused by Mutation and Alternative Splicing :
 Albinism is a group of genetic conditions in which a person has no or very little melanin pigment in their skin, hair and eyes. Albinism occurs in all racial and ethnic groups throughout the world. In Australia, about 1 in 17,000 people have some type of albinism.
 
 The genes for albinism are passed down from both parents, who may not be directly affected by it themselves. However, there is no simple test to determine whether a person carries a gene for albinism.
