@@ -29,10 +29,13 @@ People with albinism usually have poor vision. Glasses can help, but some have p
 * BLAST, ORF-Finder
 * BioEdit, Clustal Omega, ClustalW, MEGGA,MAFFT
 * GALAXY
-* Mitoswebser, Genome Data Viewer
+* Mitoswebser, Genome Data Viewe
+* Cytoscape, GEO2R
 
 # CONCLUSIONS 
 * Alternative splicing of gene is one of the key contributors to gene mutation which has become threat to life of people, even for the entirety of their lifetime. To treat OCA, gene therapy has shown important improvements in animal models. This technique can increase melanin production in the OCA. For this purpose, gene correction techniques are already available. These comprise techniques to edit erroneous segments in the genes such as TYR gene and LRMDA gene. This technique can include gene delivery vectors and gene editing tools. Gene delivery vectors may include such as retrovirus, adenovirus and AAV. Gene editing tools may comprise such as TALENs system and CRISPR/Cas9 system. For example, CRISPR/Cas9 system can correct albinism phenotype in rats. Either TALENs or CRISPR/Cas9 system in combination with iPSCs can be useful to fight albinism. It seems that gene therapy would be very beneficial for treating OCA disorder.
+# Subsequent Analysis (Under Study)
+* Exploring the link between each variant gene and screening the key genes using in silico analysis
 
 # REFERENCES
 * Journal of Advances in Biology & Biotechnology, 16(3): 1-12, 2017. DOI:10.9734/JABB/2017/38504
