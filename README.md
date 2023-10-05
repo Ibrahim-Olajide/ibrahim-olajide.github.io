@@ -7,8 +7,8 @@ This is merely a repository of a project under study and preparation for publica
 * The genes for albinism are passed down from both parents, who may not be directly affected by it themselves. However, there is no simple test to determine whether a person carries a gene for albinism.
 # There are 2 main types of albinism:
 
-### Oculocutaneous albinism, in which the hair, skin and eyes are all affected
-* Ocular albinism, which is much less common, and involves only the eyes. The skin and hair colour appears similar to that of family members
+* Oculocutaneous albinism: in which the hair, skin and eyes are all affected
+* Ocular albinism: which is much less common, and involves only the eyes. The skin and hair colour appears similar to that of family members
 There are also some extremely rare conditions where people have albinism and other health problems. Examples are Hermansky Pudlak syndrome, Chediak Higashi syndrome and Griscelli syndrome.
 
 # Signs and Symptoms of Albinism:
